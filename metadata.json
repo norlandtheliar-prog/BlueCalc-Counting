@@ -1,0 +1,5 @@
+{
+  "name": "TourCalc Pro",
+  "description": "A professional tour and travel cost calculator based on Indonesian tourism budgeting patterns. It features real-time calculations for lump-sum and unit-based costs, profit margins, and AI-powered pricing insights.",
+  "requestFramePermissions": []
+}
